@@ -1,0 +1,16 @@
+date,amount,type,category,description
+2024-04-01,1500,credit,Salary,Monthly salary
+2024-04-03,400,debit,Rent,Apartment rent
+2024-04-05,250,debit,Food,Snacks and coffee
+2024-04-07,3000,credit,Freelance,Project payment
+2024-04-10,10000,debit,Shopping,Online electronics
+2024-04-12,200,debit,Food,Dinner at restaurant
+2024-04-15,5000,credit,Transfer,Bank transfer
+2024-04-17,1800,debit,Travel,Flight booking
+2024-04-18,2200,debit,Utilities,Electricity bill
+2024-04-20,4500,debit,Shopping,Clothing and shoes
+2024-04-21,1000,debit,Entertainment,Movie tickets
+2024-04-23,3000,debit,Health,Medical bills
+2024-04-25,500,credit,Refund,Product return
+2024-04-26,2500,debit,Education,Course payment
+2024-04-27,7000,debit,Transfer,Sent to friend
